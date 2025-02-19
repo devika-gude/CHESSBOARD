@@ -10,6 +10,7 @@ https://github.com/user-attachments/assets/6172c934-6eca-4853-90b0-625c0df4eb3f
 
 
 <br>
+
 #### 📌 Project Overview  
 This project aims to visually represent a chessboard using web technologies. It consists of:  
 ✅ **HTML** - Defines the structure of the chessboard.  
